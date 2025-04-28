@@ -119,9 +119,6 @@ input[type="button"]:hover {
   cursor: pointer;
 }
 
-.item2 {  
-
-}
 
 .story2-text {
   margin-top: 1rem;
@@ -202,7 +199,6 @@ input[type="button"]:hover {
   color: white;
 }
 
-/* Responsive adjustments */
 @media (max-width: 900px) {
   .container {
     grid-template-columns: 1fr;
