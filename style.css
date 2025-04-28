@@ -159,15 +159,18 @@ body {
 
 }
 .tags{
-  height: 8vh;
+  height: 5vh;
+
   background-color: #dcd9d9;
   display: flex;
-  justify-content: space-around;
-  align-items: start;
-  
+  justify-content: space-between;
+  align-items: start;  
+
   width: 100%;
 
+
 }
+
 
 .tag-style {
   display: inline-block;
